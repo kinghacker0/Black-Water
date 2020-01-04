@@ -63,6 +63,8 @@ printf "  |    |  _/  | \__  \ _/ ___\|  |/ /  ______ \   \/\/   /\__  \\   __\/
 printf "  |    |   \  |__/ __ \\  \___|    <  /_____/  \        /  / __ \|  | \  ___/|  | \/ \n"
 printf "  |______  /____(____  /\___  >__|_ \           \__/\  /  (____  /__|  \___  >__|    \n"
 printf "         \/          \/     \/     \/                \/        \/          \/        \n"
+printf " Gitub     - https://github.com/kinghacker0                                          \n"
+printf " Instagram - https://instagram.com/kinghacker0                                       \n" 
 printf "\n"
 printf " Disclaimer :- We are not responsible for any Damage caused by our tool             \n"
 printf "\n"
